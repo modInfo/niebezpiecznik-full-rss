@@ -26,6 +26,11 @@ Przykład użycia z www:
     $ http://example.com/rss.php
 
 
+Przykład
+--------
+http://feeds.itunix.eu/niebezpiecznik/
+
+
 License
 -------
 MIT
